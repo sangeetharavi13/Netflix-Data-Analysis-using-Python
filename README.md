@@ -7,3 +7,9 @@ Netflix is an American media company based in Los Gatos, California. Founded in 
 ![netflix-logo-png-2562](https://user-images.githubusercontent.com/125726682/228943665-3279385b-e53c-4261-aa26-2a8df2ac0020.png)
 
 Here, l have explored and quantified data about Movies, Shows and drawn valuable insights.
+
+*Conducted data cleaning to perform exploratory data analysis (EDA) and data visualization of Netflix dataset using Python (Pandas, NumPy, Matplotlib and Seaborn).
+
+*Data analysis - Exploring the trend of Movies and Shows Production in 21st Century. Also trend of most consumed Genres, Content Ratings, Average runtime of shows and movies in Netflix.
+
+*Use data to identify Top 10 Actors and Directors staring in Netlix movies and Shows.
