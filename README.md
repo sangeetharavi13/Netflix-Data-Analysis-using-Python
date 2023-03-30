@@ -14,7 +14,8 @@ Here, l have explored and quantified data about Netflix Movies, Shows and drawn 
 
 * Use data to identify Top 10 Actors and Directors staring in Netlix movies and Shows.
 
-# Technologies used ⚙️
+## Technologies used ⚙️
 
-Python(Pandas | NumPy | Matplotlib | Seaborn)
+	`hsl(Python)`
+  Pandas | NumPy | Matplotlib | Seaborn
 
