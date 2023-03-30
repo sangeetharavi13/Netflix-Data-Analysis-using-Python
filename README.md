@@ -30,4 +30,4 @@ https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies
 3. Netflix shows and movies content runtime analysis
 4. Genere Analysis of Netflix movies and shows
 5. Top 10 Actors in Netflix
-6. Top 10 Directors in Netflix.
+6. Top 10 Directors in Netflix
