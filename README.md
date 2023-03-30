@@ -22,3 +22,12 @@ Here, l have explored and quantified data about Netflix Movies, Shows and drawn 
 ## Data set
 Kaggle Netlix Dataset:
 https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies
+
+## Objective
+
+1. Total no of Netflix Movies Vs Shows released in 21st centuary
+2. Distribution of Netflix movies and shows Film certification 
+3. Netflix shows and movies content runtime analysis
+4. Genere Analysis of Netflix movies and shows
+5. Top 10 Actors in Netflix
+6. Top 10 Directors in Netflix.
