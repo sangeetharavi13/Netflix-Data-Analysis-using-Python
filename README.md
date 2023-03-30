@@ -16,6 +16,6 @@ Here, l have explored and quantified data about Netflix Movies, Shows and drawn 
 
 ## Technologies used ⚙️
 
-  `hsl(212, 92%, 45%)`Python
+  Python
   Pandas | NumPy | Matplotlib | Seaborn
 
