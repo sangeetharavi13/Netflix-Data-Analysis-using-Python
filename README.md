@@ -31,22 +31,22 @@ Here, l have explored and quantified data about Netflix Movies, Shows and drawn 
 
 2. Distribution of Netflix movies and shows Film certification 
 
-[![Alt Text](2.png)(https://www.kaggle.com/code/sangeetharavikumar/netflixanalysis/notebook)
+[![Alt Text](2.png)](https://www.kaggle.com/code/sangeetharavikumar/netflixanalysis)
 
 3. Netflix shows and movies content runtime analysis
 
-[![Alt Text](3.png)(https://www.kaggle.com/code/sangeetharavikumar/netflixanalysis/notebook)
+[![Alt Text](3.png)](https://www.kaggle.com/code/sangeetharavikumar/netflixanalysis)
 
 4. Genere Analysis of Netflix movies and shows
 
-[![Alt Text](4.png)(https://www.kaggle.com/code/sangeetharavikumar/netflixanalysis/notebook)
+[![Alt Text](4.png)](https://www.kaggle.com/code/sangeetharavikumar/netflixanalysis)
 
-[![Alt Text](4.1.png)(https://www.kaggle.com/code/sangeetharavikumar/netflixanalysis/notebook)
+[![Alt Text](4.1.png)](https://www.kaggle.com/code/sangeetharavikumar/netflixanalysis)
 
 5. Top 10 Actors in Netflix
 
-[![Alt Text](5.png)(https://www.kaggle.com/code/sangeetharavikumar/netflixanalysis/notebook)
+[![Alt Text](5.png)](https://www.kaggle.com/code/sangeetharavikumar/netflixanalysis)
 
 6. Top 10 Directors in Netflix
 
-[![Alt Text](6.png)(https://www.kaggle.com/code/sangeetharavikumar/netflixanalysis/notebook)
+[![Alt Text](1.png)](https://www.kaggle.com/code/sangeetharavikumar/netflixanalysis)
