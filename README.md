@@ -30,6 +30,8 @@ https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies
 [![Alt Text](1.png)](https://www.kaggle.com/code/sangeetharavikumar/netflixanalysis/notebook)
 
 2. Distribution of Netflix movies and shows Film certification 
+
+[![Alt Text](2.png)](https://www.kaggle.com/code/sangeetharavikumar/netflixanalysis/notebook)
 3. Netflix shows and movies content runtime analysis
 4. Genere Analysis of Netflix movies and shows
 5. Top 10 Actors in Netflix
