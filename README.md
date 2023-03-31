@@ -26,6 +26,8 @@ https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies
 ## Objective
 
 1. Total no of Netflix Movies Vs Shows released in 21st centuary
+[![Alt Text](1.png)](https://www.kaggle.com/code/sangeetharavikumar/netflixanalysis/notebook)
+
 2. Distribution of Netflix movies and shows Film certification 
 3. Netflix shows and movies content runtime analysis
 4. Genere Analysis of Netflix movies and shows
