@@ -35,6 +35,8 @@ https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies
 
 3. Netflix shows and movies content runtime analysis
 
+[![Alt Text](3.png)](https://www.kaggle.com/code/sangeetharavikumar/netflixanalysis/notebook)
+
 4. Genere Analysis of Netflix movies and shows
 
 [![Alt Text](4.png)](https://www.kaggle.com/code/sangeetharavikumar/netflixanalysis/notebook)
