@@ -27,7 +27,7 @@ Here, l have explored and quantified data about Netflix Movies, Shows and drawn 
 
 1. Total no of Netflix Movies Vs Shows released in 21st centuary
 
-[![Alt Text](1.png)](https://www.kaggle.com/code/sangeetharavikumar/netflixanalysis)
+[![Alt Text](Images/1 Objective.png)](https://www.kaggle.com/code/sangeetharavikumar/netflixanalysis)
 
 2. Distribution of Netflix movies and shows Film certification 
 
